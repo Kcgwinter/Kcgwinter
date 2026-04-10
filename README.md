@@ -16,5 +16,7 @@ Throug previous work my techstack is related to the C# world, but i try to be op
 <ul>
   <li>C#, Dot.Net</li>
   <li>Powershell</li>
+  <li>API Development</li>
+  <li>MS SQL</li>
   <li>multiple more</li>
 </ul>
