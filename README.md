@@ -9,3 +9,12 @@ My favorite work is to analyse workflows and optimize them or help people to get
 Throug previous work my techstack is related to the C# world, but i try to be open minded for new experiences. 
 
 🌱 I’m currently relearning the fundamentals to build better code and advance my knowledge in fullstack development
+
+<hr/>
+
+# Tools & Tech
+<ul>
+  <li>C#, Dot.Net</li>
+  <li>Powershell</li>
+  <li>multiple more</li>
+</ul>
